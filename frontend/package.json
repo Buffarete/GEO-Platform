@@ -1,9 +1,0 @@
-{
-  "name": "geo-frontend",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "start": "echo 'frontend placeholder'",
-    "build": "echo 'build'"
-  }
-}

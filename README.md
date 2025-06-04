@@ -14,3 +14,7 @@ cd backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
+
+## API Endpoints
+- `GET /health` – service health check
+- `POST /llm/openai` – query OpenAI chat model (requires OpenAI API key)
